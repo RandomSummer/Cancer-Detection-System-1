@@ -1,0 +1,11 @@
+altair==4.2
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
+streamlit
+ydata-profiling
+streamlit-ydata-profiling
+streamlit-option-menu
